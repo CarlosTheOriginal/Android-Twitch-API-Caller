@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42DB04</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#8700A2</color>
+    <color name="twitchPurple">#6441A4</color>
+    <color name="youTubeRed">#FF0000</color>
+
+
+</resources>
